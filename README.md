@@ -4,7 +4,7 @@
 
 #### 界面效果
 1、登录页面
-![](https://github.com/Talkyunyun/g-electron-im/doc/login.jpg)
+![](https://github.com/Talkyunyun/g-electron-im/blob/master/doc/login.jpg?raw=true)
 
 
 #### 1、主进程和渲染进程时间命名规范
